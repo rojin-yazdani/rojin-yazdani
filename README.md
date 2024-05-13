@@ -1,11 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<br>
 
-![](cover.jpg)
+![](images/cover.jpg)
+
+<br><br>
 
 
-
-
-- 🔭 I’m currently working on the Ticketing System at [DEFEND](https://helpusdefend.com/) 
+- 🔭 I’m currently working on the Ticketing System at DEFEND and working as a data analyst at ARTYAS Investment
 - 🌱 I’m currently a PhD student in Artificial Intelligence 
 - 👯 I’m looking to collaborate on data science 
 - 💬 Ask me about : I am always ready to help at my best 
@@ -13,6 +14,7 @@
 - 😄 Pronouns: Friend :open_hands:
 
 
+<br><br>
 ### Languages and tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="images/plsql.jpg"></code>
@@ -42,6 +44,7 @@
 <code><img height="30" src="images/django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
+<br><br>
 #### Find me in social media
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/rojin-yazdani "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/r-yazdani "LinkedIn")

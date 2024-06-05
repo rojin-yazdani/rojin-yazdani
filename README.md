@@ -12,6 +12,8 @@
 - 💬 Ask me about : I am always ready to help at my best 
 - 📫 How to reach me: yazdanirojin@gmail.com  
 - 😄 Pronouns: Friend :open_hands:
+  
+- As I continue to expand my horizons in the world of data, I'm open to exploring new opportunities and challenges. 🚀 Feel free to connect and say hi! 👋
 
 
 <br><br>
